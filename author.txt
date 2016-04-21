@@ -1,0 +1,7 @@
+description Call of Duty 6 Map Pack (default+dlc+sp+other maps) 
+comments CoD6 All Maps
+author Bluscream
+version 1.00
+filename CoD6Extended.qtmp 
+id CoD6_extended 
+game callofduty4

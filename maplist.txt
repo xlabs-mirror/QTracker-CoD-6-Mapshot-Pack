@@ -1,0 +1,123 @@
+af_caves	loadscreen_af_caves	Caves
+af_caves	preview_af_caves	Caves
+af_chase	loadscreen_af_chase	Rust
+af_chase	preview_af_chase	Rust
+airport	preview_airport	Airport
+arcadia	preview_arcadia	Arcadia
+boneyard	preview_boneyard	Boneyard
+cliffhanger	loadscreen_cliffhanger	Cliffhanger
+cliffhanger	preview_cliffhanger	Cliffhanger
+co_hunted	loadscreen_co_hunted	Hunted
+co_hunted	preview_co_hunted	Hunted
+contingency	compass_contingency	Contingency
+contingency	preview_contingency	Contingency
+dc_whitehouse	preview_dc_whitehouse	DC White House
+dcburning	loadscreen_dcburning	DC Burning
+dcburning	preview_dcburning	DC Burning
+dcemp	loadscreen_dcemp	DC EMP
+dcemp	preview_dcemp	DC EMP
+ending	preview_ending	Ending
+ending	preview_ending2	Ending
+estate	compass_estate	Estate
+estate	loadscreen_estate	Estate
+estate	preview_estate	Estate
+favela	loadscreen_favela	Favela
+favela	preview_favela	Favela
+favela_escape	preview_favela_escape	Favela Escape
+gulag	loadscreen_gulag	Gulag
+gulag	preview_gulag	Gulag
+invasion	compass_invasion	Burger Town
+invasion	loadscreen_invasion	Burger Town
+invasion	preview_invasion	Burger Town
+iw4_credits	preview_iw4_credits	Credits
+logo_amw	logo_amw	alterMilkyWay
+logo_iw_amw	logo_iw_amw	alterMilkyWay
+mp_abandon	loadscreen_mp_abandon	Carnival
+mp_abandon	preview_mp_abandon	Carnival
+mp_afghan	loadscreen_mp_afghan	Afghan
+mp_afghan	preview_mp_afghan	Afghan
+mp_bloc	preview_mp_bloc	Bloc
+mp_bog_sh	loadscreen_mp_bog_sh	Bog
+mp_boneyard	preview_mp_boneyard	Scrapyard
+mp_brecourt	loadscreen_mp_brecourt	Wasteland
+mp_brecourt	preview_mp_brecourt	Wasteland
+mp_broadcast	preview_mp_broadcast	Broadcast
+mp_checkpoint	loadscreen_mp_checkpoint	Karachi
+mp_checkpoint	preview_mp_checkpoint	Karachi
+mp_compact	loadscreen_mp_compact	Salvage
+mp_compact	preview_mp_compact	Salvage
+mp_complex	loadscreen_mp_complex	Bailout
+mp_complex	preview_mp_complex	Bailout
+mp_countdown	preview_mp_countdown	Countdown
+mp_crash	loadscreen_mp_crash	Crash
+mp_crash	preview_mp_crash	Crash
+mp_crash_trop	loadscreen_mp_crash_trop	Crash Tropical
+mp_crash_trop	preview_mp_crash_tropical	Crash Tropical
+mp_crash_tropical	loadscreen_mp_crash_trop	Crash Tropical 2
+mp_crash_tropical	preview_mp_crash_tropical	Crash Tropical 2
+mp_cross_fire	preview_mp_cross_fire	Crossfire
+mp_derail	loadscreen_mp_derail	Derail
+mp_derail	preview_mp_derail	Derail
+mp_estate	loadscreen_mp_estate	Estate
+mp_estate	preview_mp_estate	Estate
+mp_estate_tropical	loadscreen_mp_estate_tropical	Estate Tropical
+mp_estate_tropical	preview_mp_estate_tropical	Estate Tropical
+mp_fav_tropical	loadscreen_mp_fav_tropical	Favela Tropical
+mp_fav_tropical	preview_mp_fav_tropical	Favela Tropical
+mp_favela	loadscreen_mp_favela	Favela
+mp_favela	preview_mp_favela	Favela
+mp_fuel2	loadscreen_mp_fuel2	Fuel
+mp_fuel2	preview_mp_fuel2	Fuel
+mp_highrise	loadscreen_mp_highrise	Highrise
+mp_highrise	preview_mp_highrise	Highrise
+mp_invasion	loadscreen_mp_invasion	Invasion
+mp_invasion	preview_mp_invasion	Invasion
+mp_italy	preview_mp_italy	Italy
+mp_killhouse	loadscreen_mp_killhouse	Killhouse
+mp_killhouse	preview_mp_killhouse	Killhouse
+mp_nightshift	loadscreen_mp_nightshift	Skidrow
+mp_nightshift	preview_mp_nightshift	Skidrow
+mp_nuked	loadscreen_mp_nuked	Nuketown
+mp_nuked	preview_mp_nuked	Nuketown
+mp_overgrown	loadscreen_mp_overgrown	Overgrown
+mp_overgrown	preview_mp_overgrown	Overgrown
+mp_quarry	loadscreen_mp_quarry	Quarry
+mp_quarry	preview_mp_quarry	Quarry
+mp_rundown	loadscreen_mp_rundown	Rundown
+mp_rundown	preview_mp_rundown	Rundown
+mp_rust	loadscreen_mp_rust	Rust
+mp_rust	preview_mp_rust	Rust
+mp_storm	loadscreen_mp_storm	Storm
+mp_storm	preview_mp_storm	Storm
+mp_storm_spring	loadscreen_mp_storm_spring	Storm Spring
+mp_storm_spring	preview_mp_storm_spring	Storm Spring
+mp_strike	compass_mp_strike	Strike
+mp_strike	loadscreen_mp_strike	Strike
+mp_strike	preview_mp_strike	Strike
+mp_subbase	loadscreen_mp_subbase	Subbase
+mp_subbase	preview_mp_subbase	Subbase
+mp_terminal	loadscreen_mp_terminal	Terminal
+mp_terminal	preview_mp_terminal	Terminal
+mp_terminal_cls	preview_mp_terminal_cls	Terminal CLS
+mp_terminal_cls	preview_mp_terminal_cls	Terminal CLS
+mp_trailerpark	loadscreen_mp_trailerpark	Trailer Park
+mp_trailerpark	preview_mp_trailerpark	Trailer Park
+mp_underground	preview_mp_underground	Underground
+mp_underpass	loadscreen_mp_underpass	Underpass
+mp_underpass	preview_mp_underpass	Underpass
+mp_vacant	loadscreen_mp_vacant	Vacant
+mp_vacant	preview_mp_vacant	Vacant
+nazi	preview_nazi	Nazi
+oilrig	compass_oilrig_lvl_1	Oilrig [MAP] LvL 1
+oilrig	compass_oilrig_lvl_2	Oilrig [MAP] LvL 2
+oilrig	compass_oilrig_lvl_3	Oilrig [MAP] LvL 3
+oilrig	preview_oilrig	Oilrig
+q3dm1	preview_q3dm1	Q3 DM 1
+roadkill	preview_roadkill	Roadkill
+so_ghillies	preview_so_ghillies	Ghillies
+so_hunted	loadscreen_so_hunted	Hunted SO
+so_hunted	preview_so_hunted	Hunted SO
+sp_momo5502	preview_sp_momo5502	Momo
+survivle	preview_survivle	Survival
+trainer	preview_trainer	Trainer
+ui_viewer_mp	ui_viewer_mp	UI Viewer MP
